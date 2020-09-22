@@ -1,8 +1,8 @@
 def pref(li):
 	'''
 	returns a prefix sum array of given array
-	example:
 
+	example:
 	if given a list: [1,2,3,4]
 	returns:
 					 [0,1,3,6,10]
