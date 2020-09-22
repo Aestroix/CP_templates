@@ -1,7 +1,6 @@
 def kadane(li): 
 	'''
 	maximum sum contiguous subarray
-
 	returns the maximum sum of contiguous subarray
 
 	subarray is obtained by deleting some elements from the start and the end
