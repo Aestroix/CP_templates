@@ -16,6 +16,6 @@ def kadane(li):
 			sum_so_far = max(sum_so_far,current_sum)
 	return sum_so_far
 
-li = list(map(int,input().split())) #enter space separated numbers
+li = list(map(int,input().split())) #enter any number of space separated integers 
 max_sum_subarray = kadane(li)
 print(max_sum_subarray)
