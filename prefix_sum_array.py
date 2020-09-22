@@ -8,7 +8,7 @@ def pref(li):
 					 [0,1,3,6,10]
 
 	This algorithm is one of the most basic ones which is very useful for problems
-	like LAZY-SUM, feel free to search tha too :^))
+	like LAZY-SUM, feel free to search that too :^))
 	'''
 	pref_sum = [0]
 	for i in li:
